@@ -1,0 +1,15 @@
+canvas
+{
+    animation-name: wni;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    border-radius: 50px;
+    
+}
+
+
+@keyframes  wni{
+
+    from{box-shadow:  5px 5px 50px black; }
+    to{box-shadow: 5px 5px 50px green;}
+}
